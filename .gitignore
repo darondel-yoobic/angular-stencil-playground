@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# IDEs / Editors
+.idea/
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Yarn
+yarn-error.log
