@@ -16,6 +16,9 @@
   ],
   "scripts": {
     "build": "stencil build --docs",
+    "build.dev": "yarn build --dev --esm",
+    "build.dev.watch": "yarn build.dev --watch",
+    "build.watch": "yarn build --watch",
     "start": "stencil build --dev --watch --serve",
     "test": "stencil test --spec --e2e",
     "test.watch": "stencil test --spec --e2e --watchAll",
