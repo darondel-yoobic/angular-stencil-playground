@@ -1,5 +1,5 @@
 {
   "name": "angular-stencil-playground",
   "private": true,
-  "workspaces": ["angular"]
+  "workspaces": ["angular", "stencil"]
 }
