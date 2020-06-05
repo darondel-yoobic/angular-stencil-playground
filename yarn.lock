@@ -1041,14 +1041,14 @@
     semver "7.1.3"
     semver-intersect "1.4.0"
 
-"@stencil/core@^1.12.2":
-  version "1.12.3"
-  resolved "https://registry.yarnpkg.com/@stencil/core/-/core-1.12.3.tgz#e9641729dbc1788ccb709487630c5a677e913efa"
-  integrity sha512-Qt3issn/r89hpx1feNOJnyEDHIuHsQqnLcv0tvuAHMO1PAi5B+T3qMT0jjtSuAnBrP9w96qo5Is16K43Su9IsA==
+"@stencil/core@1.14.0":
+  version "1.14.0"
+  resolved "https://registry.yarnpkg.com/@stencil/core/-/core-1.14.0.tgz#4bdbfa69a7c89c404b688199441c39326418044c"
+  integrity sha512-3u3O8y8HIORiKuDmPowJiUu9nNmpxq4ak1kR3aVuWH6YTQ7+Uexy0dAxabn3CUoQmh6cpYsk9l5P5yIX2EQHoQ==
   dependencies:
-    typescript "3.8.3"
+    typescript "3.9.3"
 
-"@stencil/sass@^1.3.1":
+"@stencil/sass@1.3.1":
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/@stencil/sass/-/sass-1.3.1.tgz#d49f09b4e720eafea13a77e0940cc86039370644"
   integrity sha512-5qsEyhLGTywpG4zlWv6eBhhj/z2Z37nbUGa87Ak0KqfsEiclJCYRA/AMM9FiN1jHfBvr968G4zE8rNlYmiPLsQ==
@@ -8114,6 +8114,11 @@ typescript@3.8.3, typescript@~3.8.3:
   version "3.8.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.8.3.tgz#409eb8544ea0335711205869ec458ab109ee1061"
   integrity sha512-MYlEfn5VrLNsgudQTVJeNaQFUAI7DkhnOjdpAp4T+ku1TfQClewlbSuTVHiA+8skNBgaf02TL/kLOvig4y3G8w==
+
+typescript@3.9.3:
+  version "3.9.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.3.tgz#d3ac8883a97c26139e42df5e93eeece33d610b8a"
+  integrity sha512-D/wqnB2xzNFIcoBG9FG8cXRDjiqSTbG2wd8DMZeQyJlP1vfTkIxH4GKveWaEBYySKIg+USu+E+EDIR47SqnaMQ==
 
 ultron@~1.1.0:
   version "1.1.1"
